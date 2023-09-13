@@ -1,5 +1,3 @@
-# CS2103 Accelerated Object-Oriented Design Concepts
-
 # simpleParticleSimulator
 
 ### Getting Started
